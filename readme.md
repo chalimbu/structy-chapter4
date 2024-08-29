@@ -1,4 +1,5 @@
 this repo contains some exercise that i found interesting to review in the future of the structy platform chapter 4
+binary trees
 
 
 only for this repo

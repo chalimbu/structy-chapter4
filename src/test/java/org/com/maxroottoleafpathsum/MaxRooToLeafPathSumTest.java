@@ -88,7 +88,7 @@ public class MaxRooToLeafPathSumTest {
         //     /       \
         //    -1       -2
 
-        assertEquals(8D, MaxRooToLeafPathSum.maxPathSum(a));
+        assertEquals(-8D, MaxRooToLeafPathSum.maxPathSum(a));
     }
 
     @Test

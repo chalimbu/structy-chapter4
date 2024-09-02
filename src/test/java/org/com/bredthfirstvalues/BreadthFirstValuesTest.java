@@ -1,8 +1,8 @@
-package org.example.bredthfirstvalues;
+package org.com.bredthfirstvalues;
 
 
-import org.example.breadthfirstvalue.Node;
-import org.example.breadthfirstvalue.Source;
+import org.com.breadthfirstvalue.Node;
+import org.com.breadthfirstvalue.Source;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

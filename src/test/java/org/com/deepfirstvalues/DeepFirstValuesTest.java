@@ -1,4 +1,4 @@
-package org.example.deepfirstvalues;
+package org.com.deepfirstvalues;
 
 import org.junit.jupiter.api.Test;
 

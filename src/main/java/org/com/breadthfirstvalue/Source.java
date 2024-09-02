@@ -1,4 +1,4 @@
-package org.example.breadthfirstvalue;
+package org.com.breadthfirstvalue;
 
 import java.util.List;
 

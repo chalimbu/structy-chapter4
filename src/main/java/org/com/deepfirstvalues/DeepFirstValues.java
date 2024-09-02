@@ -1,7 +1,5 @@
-package org.example.deepfirstvalues;
+package org.com.deepfirstvalues;
 import java.util.List;
-import java.util.LinkedList;
-import java.util.Stack;
 
 class Node<T> {
     T val;

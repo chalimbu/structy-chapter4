@@ -1,4 +1,4 @@
-package org.example.breadthfirstvalue;
+package org.com.breadthfirstvalue;
 
 public class Node<T> {
     public T val;

@@ -1,6 +1,6 @@
 package org.com.maxroottoleafpathsum;
 
-class Source {
+class MaxRooToLeafPathSum {
     public static Double maxPathSum(Node<Double> root) {
         // todo
         return 0D;

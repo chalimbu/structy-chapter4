@@ -156,7 +156,7 @@ public class TreePathFinderTest {
         //                200
 
         List<Integer> expectedResult=new ArrayList<>();
-        for (int i = 1; i <= 200; i += 1) {
+        for (int i = 0; i <= 116; i += 1) {
             expectedResult.add(i);
         }
         assertEquals(expectedResult,TreePathFinder.pathFinder(root,116));
